@@ -52,10 +52,11 @@ const heer_aswani = {
 <br>
 
 ## Connect
-
+<center>
 <p>
   <a href="https://www.linkedin.com/in/heeraswani1190"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:aswaniheer96@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+</center>
 
 *Open to full-time Full Stack Developer / Data Analyst opportunities — feel free to reach out.*
